@@ -1,10 +1,14 @@
 # Modular-PS-Prompt
 
-A Modular PowerShell CLI Prompt forked from https://github.com/Namorzyny/PSLittleTrain
+A Modular PowerShell CLI Prompt forked from [https://github.com/Namorzyny/PSLittleTrain](https://github.com/Namorzyny/PSLittleTrain).
+
+_The original maintainer has removed and no longer maintains the source repository._
 
 ## Dependencies
 
-Prior to installation, ensure PSReadline is installed. This quickest way to do this is with Chocolatey.
+Prior to installation, ensure the PSReadline module is installed. PowerShell >= 6.x already includes this. 
+
+Optionally, install [posh-git](https://chocolatey.org/packages/poshgit) for git command completion. The quickest way to do this is with Chocolatey `choco install poshgit`.
 
 ## Installation
 
